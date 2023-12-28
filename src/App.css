@@ -1,0 +1,40 @@
+.containers{
+  display: flex;
+}
+.contents{
+  width: 100%;
+
+}
+.sidebar {
+  min-height: 100vh;
+}
+
+.post-card {
+  margin: 20px 50px;
+  width: 200px;
+}
+.footer{
+  padding: 0px 20px;
+}
+.post-form{
+  padding: 20px;
+  width: 600px;
+}
+
+.hashtag {
+  margin: 0px 3px;
+}
+
+.reactions {
+  margin: 15px 0 0 0;
+}
+.react-btn{
+  margin: 15px 34%;
+  width: 100%;
+}
+.del-btn{
+  cursor: pointer;
+}
+.welcome-msg{
+  margin: 100px 0px;
+}
